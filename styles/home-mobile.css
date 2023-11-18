@@ -177,6 +177,21 @@
         width: 75%;
     
     }
+
+    .mobile-finance-menu {
+        overflow: scroll;
+    }
+
+    .mobile-health-menu {
+        overflow: scroll;
+    }
+    .mobile-math-menu {
+        overflow: scroll;
+    }
+
+    .mobile-science-menu {
+        overflow: scroll;
+    }
 }
 @media screen and (max-width: 413px) {
     .mobile-list-1 {
