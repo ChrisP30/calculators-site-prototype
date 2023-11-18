@@ -21,19 +21,19 @@ class HomeTopNavigation extends HTMLElement {
     <nav class="navbar-regular-menu">
         <div class="regular-health-menu">
             <h2>Health</h2>
-            <div class="menu-img-container"><img src="../images/menu-down.png" alt=""></div>
+            <div class="menu-img-container"><img src="images/menu-down.png" alt=""></div>
         </div>
         <div class="regular-finance-menu">
             <h2>Finance</h2>
-            <div class="menu-img-container"><img src="../images/menu-down.png" alt=""></div>
+            <div class="menu-img-container"><img src="images/menu-down.png" alt=""></div>
         </div>
         <div class="regular-math-menu">
             <h2>Math</h2>
-            <div class="menu-img-container"><img src="../images/menu-down.png" alt=""></div>
+            <div class="menu-img-container"><img src="images/menu-down.png" alt=""></div>
         </div>
         <div class="regular-science-menu">
             <h2>Science</h2>
-            <div class="menu-img-container"><img src="../images/menu-down.png" alt=""></div>
+            <div class="menu-img-container"><img src="images/menu-down.png" alt=""></div>
         </div>
     </nav>
     <nav class="mobile-screen-menu">
