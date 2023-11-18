@@ -7,7 +7,6 @@ class TopNavigation extends HTMLElement {
         this.innerHTML = `
         <link rel="stylesheet" href="../styles/home-navbars.css">
         <link rel="stylesheet" href="../styles/home-mobile.css">
-        <link rel="stylesheet" href="../styles/search.css">
         <link rel="stylesheet" href="../styles/hamburgerAnimation.css">
         <nav class="navbar-regular-logo">
         <div class="hamburger-menu">
