@@ -230,6 +230,11 @@
     .navbar-regular-logo a h1 {
         margin-right: 10px;
     }
+
+    .navbar-regular-logo {
+        top: 0;
+        position: sticky;
+    }
     .hamburger-menu {
         display: flex;
         width: 50px;
