@@ -17,7 +17,7 @@
 }
 
 .hidden-side-items-menu {
-    left: -375px;
+    left: -400px;
 }
 
 .mobile-screen-menu h2 {
@@ -43,7 +43,7 @@
     position: fixed;
     background-color: #CC313D;
     height: 100vh;
-    width: 75%;
+    width: 80%;
     z-index: 20;
     display: flex;
     flex-direction: column;
@@ -55,7 +55,7 @@
     position: fixed;
     background-color: #CC313D;
     height: 100vh;
-    width: 75%;
+    width: 80%;
     z-index: 20;
     display: flex;
     flex-direction: column;
@@ -67,7 +67,7 @@
     position: fixed;
     background-color: #CC313D;
     height: 100vh;
-    width: 75%;
+    width: 80%;
     z-index: 20;
     display: flex;
     flex-direction: column;
@@ -79,7 +79,7 @@
     position: fixed;
     background-color: #CC313D;
     height: 100vh;
-    width: 75%;
+    width: 80%;
     z-index: 20;
     display: flex;
     flex-direction: column;
@@ -159,3 +159,61 @@
 .mobile-menu-active {
     transform: translate(100%);
 }
+
+@media screen and (max-width: 500px) {
+    .mobile-list-1 {
+        padding-left: 50px;
+        width: 75%;
+    }
+    
+    .mobile-list-2 {
+        padding-left: 50px;
+        width: 75%;
+    
+    }
+    
+    .mobile-list-3 {
+        padding-left: 50px;
+        width: 75%;
+    
+    }
+}
+@media screen and (max-width: 413px) {
+    .mobile-list-1 {
+        padding-left: 50px;
+        width: 75%;
+    }
+    
+    .mobile-list-2 {
+        padding-left: 50px;
+        width: 75%;
+    
+    }
+    
+    .mobile-list-3 {
+        padding-left: 50px;
+        width: 75%;
+    
+    }
+
+    .mobile-finance-menu {
+        width: 93%;
+        overflow: scroll;
+    }
+
+    .mobile-health-menu {
+        width: 93%;
+        overflow: scroll;
+    }
+    .mobile-math-menu {
+        width: 93%;
+        overflow: scroll;
+    }
+
+    .mobile-science-menu {
+        width: 93%;
+        overflow: scroll;
+    }
+}
+
+
