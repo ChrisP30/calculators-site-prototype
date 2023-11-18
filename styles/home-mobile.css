@@ -1,0 +1,161 @@
+
+
+.mobile-screen-menu {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    transform: translateX(0) !important;
+    background-color: #CC313D;
+    transition: 0.3s ease-in;
+    height: 100vh;
+    z-index: 10;
+    width: 100px;
+}
+
+.hidden-side-menu {
+    left: -100px;
+}
+
+.hidden-side-items-menu {
+    left: -375px;
+}
+
+.mobile-screen-menu h2 {
+    color: white;
+    transition: 0.4s ease-in;
+    font-size: 1.4rem;
+}
+
+.mobile-screen-menu h2:hover {
+    color: black;
+    cursor: pointer;
+}
+
+.mobile-screen-menu div {
+    margin: 20px auto;
+}
+
+.mobile-screen-menu-active {
+    transform: translateX(100%) !important;
+}
+
+.mobile-health-menu {
+    position: fixed;
+    background-color: #CC313D;
+    height: 100vh;
+    width: 75%;
+    z-index: 20;
+    display: flex;
+    flex-direction: column;
+    transform: translateX(0);
+    transition: 0.3s ease-in;
+}
+
+.mobile-finance-menu {
+    position: fixed;
+    background-color: #CC313D;
+    height: 100vh;
+    width: 75%;
+    z-index: 20;
+    display: flex;
+    flex-direction: column;
+    transform: translateX(0);
+    transition: 0.3s ease-in;
+}
+
+.mobile-math-menu {
+    position: fixed;
+    background-color: #CC313D;
+    height: 100vh;
+    width: 75%;
+    z-index: 20;
+    display: flex;
+    flex-direction: column;
+    transform: translateX(0);
+    transition: 0.3s ease-in;
+}
+
+.mobile-science-menu {
+    position: fixed;
+    background-color: #CC313D;
+    height: 100vh;
+    width: 75%;
+    z-index: 20;
+    display: flex;
+    flex-direction: column;
+    transform: translateX(0);
+    transition: 0.3s ease-in;
+}
+
+.mobile-science-menu div a {
+    color: white;
+    text-decoration: none;
+}
+
+.mobile-science-menu div li {
+    list-style-type: none;
+    margin: 10px 0 0 0;
+}
+
+.mobile-math-menu div a {
+    color: white;
+    text-decoration: none;
+}
+
+.mobile-math-menu div li {
+    list-style-type: none;
+    margin: 10px 0 0 0;
+}
+
+.mobile-finance-menu div a {
+    color: white;
+    text-decoration: none;
+}
+
+.mobile-finance-menu div li {
+    list-style-type: none;
+    margin: 10px 0 0 0;
+}
+
+.mobile-health-menu div a {
+    color: white;
+    text-decoration: none;
+}
+
+.mobile-health-menu div li {
+    list-style-type: none;
+    margin: 10px 0 0 0;
+}
+
+.exit-btn-container img {
+    width: 60px;
+    height: 50px;
+}
+
+.mobile-list-1 {
+    margin: 20px auto;
+    width: 75%;
+}
+
+.mobile-list-2 {
+    margin: 20px auto;
+    width: 75%;
+
+}
+
+.mobile-list-3 {
+    margin: 20px auto;
+    width: 75%;
+
+}
+
+.exit-btn-container {
+    display: flex;
+    justify-content: flex-end;
+    height: 50px;
+    width: 100%;
+}
+
+.mobile-menu-active {
+    transform: translate(100%);
+}

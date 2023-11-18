@@ -1,0 +1,15 @@
+.rotate-bar1 {
+    transform: rotate(45deg) translate(4px, 5px);
+    transition: 0.3s ease-in-out;
+}
+
+.rotate-bar3 {
+    transform: rotate(-45deg) translate(5px, -6px);
+    transition: 0.3s ease-in-out;
+}
+
+.fade-bar2 {
+    opacity: 0;
+    transform: scaleX(0);
+    transition: 0.3s ease-in-out;
+}

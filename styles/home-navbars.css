@@ -1,0 +1,264 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Electrolize', sans-serif;
+}
+.hamburger-menu {
+    display: none;
+}
+
+.hidden-top {
+ top: -212px !important;
+}
+
+.hamburger-menu span {
+    width: 25px;
+    height: 3px;
+    background-color: white;
+    margin: 2px 0;
+}
+
+.navbar-regular-logo {
+    position: relative;
+    width: 100%;
+    background-color: #CC313D;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 10;
+}
+
+.navbar-regular-logo a h1 {
+    font-size: 1.4rem;
+    color: white;
+    margin-left: 10px;
+}
+
+.navbar-regular-logo a {
+    text-decoration: none;
+}
+
+.navbar-regular-menu {
+    position: relative;
+    display: flex;
+    height: 43px;
+    background-color: lightgray;
+    z-index: 999;
+}
+
+.navbar-regular-menu img {
+    height: 20px;
+    width: 20px;
+}
+
+.regular-health-menu {
+    width: 25%;
+    border: 1px solid black;
+}
+
+.regular-finance-menu {
+    width: 25%;
+    border: 1px solid black;
+}
+
+.regular-science-menu {
+    width: 25%;
+    border: 1px solid black;
+}
+
+.regular-math-menu {
+    width: 25%;
+    border: 1px solid black;
+}
+
+.regular-health-menu h2 {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 1.4rem;
+}
+
+.regular-math-menu h2 {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 1.4rem;
+}
+
+.regular-other-menu h2 {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 1.4rem;
+}
+
+.regular-finance-menu h2 {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 1.4rem;
+}
+
+.regular-science-menu h2 {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 1.4rem;
+}
+
+.menu-img-container {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.regular-health-menu-sub-nav {
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 60%;
+    background-color: #CC313D;
+    margin: 0 auto;
+    transform: translateY(0);
+    z-index: 5;
+    transition: 0.3s ease-in-out;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.regular-active {
+    transform: translateY(100%) !important;
+}
+
+.regular-menu-items-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.regular-menu h3 {
+    color: white;
+    font-size: 1.8rem;
+    margin-left: 30px;
+}
+
+.regular-menu li {
+    color: white;
+    list-style-type: none;
+    font-size: 0.7rem;
+    margin: 10px 0;
+}
+
+.regular-menu a {
+    text-decoration: none;
+    color: white;
+}
+
+.regular-menu {
+    min-width: 500px;
+    max-width: 625px;
+    height: 300px;
+}
+
+
+
+.regular-finance-menu-sub-nav {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 60%;
+    background-color: #CC313D;
+    transform: translateY(0);
+    z-index: 5;
+    transition: 0.3s ease-in-out;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.regular-math-menu-sub-nav {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 60%;
+    background-color: #CC313D;
+    transform: translateY(0);
+    z-index: 5;
+    transition: 0.3s ease-in-out;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.regular-science-menu-sub-nav {
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 60%;
+    background-color: #CC313D;
+    margin: 0 auto;
+    transform: translateY(0);
+    z-index: 5;
+    transition: 0.3s ease-in-out;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+@media screen and (min-width: 501px) {
+    .mobile-screen-menu {
+        display: none !important;
+    }
+
+    .mobile-health-menu  {
+        display: none !important;
+    }
+
+    .mobile-finance-menu {
+        display: none !important;
+    }
+
+    .mobile-math-menu {
+        display: none !important;
+    }
+
+    .mobile-science-menu {
+        display: none !important;
+    }
+}
+
+@media screen and (max-width: 500px) {
+   
+    .navbar-regular-logo a h1 {
+        margin-right: 10px;
+    }
+    .hamburger-menu {
+        display: flex;
+        width: 50px;
+        height: 100%;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .navbar-regular-menu {
+        display: none;
+    }
+
+    .regular-health-menu-sub-nav {
+        display: none;
+    }
+
+    .regular-finance-menu-sub-nav {
+        display: none;
+    }
+
+    .regular-science-menu-sub-nav {
+        display: none;
+    }
+
+    .regular-math-menu-sub-nav {
+        display: none;
+    }
+    .regular-other-menu-sub-nav {
+        display: none;
+    }
+}
+
