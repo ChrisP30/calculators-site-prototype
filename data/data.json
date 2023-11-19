@@ -1,381 +1,381 @@
 [
     {
-        "location": "",
+        "location": "mathpages/calculator.html",
         "type": "math",
         "name": "calculator"
     },
     {
-        "location": "",
+        "location": "mathpages/percentageCal.html",
         "type": "math",
         "name": "percentage calculator"
     },
     {
-        "location": "",
+        "location": "mathpages/QuadraticCal.html",
         "type": "math",
         "name": "quadratic formula"
     },
     {
-        "location": "",
+        "location": "mathpages/surfaceArea.html",
         "type": "math",
         "name": "surface area calculator"
     },
     {
-        "location": "",
+        "location": "mathpages/areaCal.html",
         "type": "math",
         "name": "area calculator"
     },
     {
-        "location": "",
+        "location": "mathpages/slopeCal.html",
         "type": "math",
         "name": "slope calculator"
     },
     {
-        "location": "",
+        "location": "mathpages/distanceCal.html",
         "type": "math",
         "name": "distance calculator"
     },
     {
-        "location": "",
+        "location": "mathpages/matrixCal.html",
         "type": "math",
         "name": "matrix calculator"
     },
     {
-        "location": "",
+        "location": "mathpages/exponentCal.html",
         "type": "math",
         "name": "exponent calculator"
     },
     {
-        "location": "",
+        "location": "mathpages/randomNum.html",
         "type": "math",
         "name": "random number calculator"
     },
     {
-        "location": "",
+        "location": "mathpages/ratioCal.html",
         "type": "math",
         "name": "ratio calculator"
     },
     {
-        "location": "",
+        "location": "mathpages/circleCal.html",
         "type": "math",
         "name": "circle calculator"
     },
     {
-        "location": "",
+        "location": "mathpages/pythagorean.html",
         "type": "math",
         "name": "pythagorean theorem calculator"
     },
     {
-        "location": "",
+        "location": "mathpages/roundingCal.html",
         "type": "math",
         "name": "rounding calculator"
     },
     {
-        "location": "",
+        "location": "mathpages/hexCal.html",
         "type": "math",
         "name": "hex calculator"
     },
     {
-        "location": "",
+        "location": "mathpages/probability.html",
         "type": "math",
         "name": "probability calculator"
     },
     {
-        "location": "",
+        "location": "mathpages/deviation.html",
         "type": "math",
         "name": "standard deviation calculator"
     },
     {
-        "location": "",
+        "location": "mathpages/triangleCal.html",
         "type": "math",
         "name": "triangle calculator"
     },
     {
-        "location": "",
+        "location": "mathpages/volumeCal.html",
         "type": "math",
         "name": "volume calculator"
     },
     {
-        "location": "",
+        "location": "mathpages/logCal.html",
         "type": "logarithm calculator",
         "name": ""
     },
     {
-        "location": "",
+        "location": "mathpages/binaryCal.html",
         "type": "math",
         "name": "binary calculator"
     },
     {
-        "location": "",
+        "location": "sciencepages/ohmsLaw.html",
         "type": "science",
         "name": "ohms law"
     },
     {
-        "location": "",
+        "location": "sciencepages/velocity.html",
         "type": "science",
         "name": "velocity"
     },
     {
-        "location": "",
+        "location": "sciencepages/acceleration.html",
         "type": "science",
         "name": "acceleration"
     },
     {
-        "location": "",
+        "location": "sciencepages/momentum.html",
         "type": "science",
         "name": "momentum"
     },
     {
-        "location": "",
+        "location": "sciencepages/power.html",
         "type": "science",
         "name": "power"
     },
     {
-        "location": "",
+        "location": "sciencepages/coulombsLaw.html",
         "type": "science",
         "name": "coulombs law"
     },
     {
-        "location": "",
+        "location": "sciencepages/electricResistance.html",
         "type": "science",
         "name": "electric resistance"
     },
     {
-        "location": "",
+        "location": "sciencepages/weight.html",
         "type": "science",
         "name": "weight"
     },
     {
-        "location": "",
+        "location": "sciencepages/newtons2nd.html",
         "type": "science",
         "name": "newtons second law"
     },
     {
-        "location": "",
+        "location": "sciencepages/density.html",
         "type": "science",
         "name": "density"
     },
     {
-        "location": "",
+        "location": "sciencepages/frequency.html",
         "type": "science",
         "name": "frequency"
     },
     {
-        "location": "",
+        "location": "sciencepages/pressure.html",
         "type": "science",
         "name": "pressure"
     },
     {
-        "location": "",
+        "location": "sciencepages/currentDensity.html",
         "type": "science",
         "name": "current density"
     },
     {
-        "location": "",
+        "location": "sciencepages/chargeDensity.html",
         "type": "science",
         "name": "charge density"
     },
     {
-        "location": "",
+        "location": "sciencepages/kinematics.html",
         "type": "science",
         "name": "kinematics"
     },
     {
-        "location": "",
+        "location": "sciencepages/work.html",
         "type": "science",
         "name": "work"
     },
     {
-        "location": "",
+        "location": "sciencepages/potentialEnergy.html",
         "type": "science",
         "name": "potential energy"
     },
     {
-        "location": "",
+        "location": "sciencepages/horsepower.html",
         "type": "science",
         "name": "horsepower"
     },
     {
-        "location": "",
+        "location": "sciencepages/dotProduct.html",
         "type": "science",
         "name": "dot product"
     },
     {
-        "location": "",
+        "location": "sciencepages/electricPotential.html",
         "type": "science",
         "name": "electric potential"
     },
     {
-        "location": "",
+        "location": "sciencepages/thermo1stLaw.html",
         "type": "science",
         "name": "1st law thermodynamics"
     },
     {
-        "location": "",
+        "location": "healthpages/ArmyFat.html",
         "type": "health",
         "name": "army body fat calculator" 
     },
     {
-        "location": "",
+        "location": "healthpages/BMICal.html",
         "type": "health",
         "name": "bmi calculator" 
     },
     {
-        "location": "",
+        "location": "healthpages/CalorieCal.html",
         "type": "health",
         "name": "calorie calculator" 
     },
     {
-        "location": "",
+        "location": "healthpages/ProteinCal.html",
         "type": "health",
         "name": "protein calculator" 
     },
     {
-        "location": "",
+        "location": "healthpages/LeanBodyCal.html",
         "type": "health",
         "name": "lean body mass calculator" 
     },
     {
-        "location": "",
+        "location": "healthpages/BodyFatCal.html",
         "type": "health",
         "name": "body fat calculator" 
     },
     {
-        "location": "",
+        "location": "healthpages/IdealWeight.html",
         "type": "health",
         "name": "ideal weight calculator" 
     },
     {
-        "location": "",
+        "location": "healthpages/OneRepMax.html",
         "type": "health",
         "name": "one rep max calculator" 
     },
     {
-        "location": "",
+        "location": "healthpages/MeasurementCal.html",
         "type": "health",
         "name": "measurement convertor" 
     },
     {
-        "location": "",
+        "location": "healthpages/StepMile.html",
         "type": "health",
         "name": "step to miles" 
     },
     {
-        "location": "",
+        "location": "healthpages/StepKM.html",
         "type": "health",
         "name": "steps to km" 
     },
     {
-        "location": "",
+        "location": "healthpages/SoberCal.html",
         "type": "health",
         "name": "sobriety calculator" 
     },
     {
-        "location": "",
+        "location": "healthpages/PregnancyCal.html",
         "type": "health",
         "name": "pregnancy calculator" 
     },
     {
-        "location": "",
+        "location": "financepages/interestCal.html",
         "type": "finance",
         "name": "interest calculator" 
     },
     {
-        "location": "",
+        "location": "financepages/k401.html",
         "type": "finance",
         "name": "401k calculator" 
     },
     {
-        "location": "",
+        "location": "financepages/compoundInterest.html",
         "type": "finance",
         "name": "compound interest calculator" 
     },
     {
-        "location": "",
+        "location": "financepages/autoLoan.html",
         "type": "finance",
         "name": "auto loan calculator" 
     },
     {
-        "location": "",
+        "location": "financepages/rentCal.html",
         "type": "finance",
         "name": "rent calculator" 
     },
     {
-        "location": "",
+        "location": "financepages/incomeTax.html",
         "type": "finance",
         "name": "income tax calculator" 
     },
     {
-        "location": "",
+        "location": "financepages/loanCal.html",
         "type": "finance",
         "name": "loan calculator" 
     },
     {
-        "location": "",
+        "location": "financepages/salaryCal.html",
         "type": "finance",
         "name": "salary calculator" 
     },
     {
-        "location": "",
+        "location": "financepages/paycheckCal.html",
         "type": "finance",
         "name": "paycheck calculator" 
     },
     {
-        "location": "",
+        "location": "financepages/investmentCal.html",
         "type": "finance",
         "name": "investment calculator" 
     },
     {
-        "location": "",
+        "location": "financepages/savingsCal.html",
         "type": "finance",
         "name": "savings calculator" 
     },
     {
-        "location": "",
+        "location": "financepages/cdCal.html",
         "type": "finance",
         "name": "cd calculator" 
     },
     {
-        "location": "",
+        "location": "financepages/blackScholes.html",
         "type": "finance",
         "name": "black-scholes calculator" 
     },
     {
-        "location": "",
+        "location": "financepages/inflationCal.html",
         "type": "finance",
         "name": "inflation calculator" 
     },
     {
-        "location": "",
+        "location": "financepages/marginCal.html",
         "type": "finance",
         "name": "margin calculator" 
     },
     {
-        "location": "",
+        "location": "financepages/currencyConverter.html",
         "type": "finance",
         "name": "currency convertor" 
     },
     {
-        "location": "",
+        "location": "financepages/debtPayoff.html",
         "type": "finance",
         "name": "debt payoff calculator" 
     },
     {
-        "location": "",
+        "location": "financepages/commissionCal.html",
         "type": "finance",
         "name": "commission calculator" 
     },
     {
-        "location": "",
+        "location": "financepages/mortgageCal.html",
         "type": "finance",
         "name": "mortgage calculator" 
     },
     {
-        "location": "",
+        "location": "financepages/houseAfford.html",
         "type": "finance",
         "name": "house affordability" 
     },
     {
-        "location": "",
+        "location": "financepages/roiCal.html",
         "type": "finance",
         "name": "roi calculator" 
     }
