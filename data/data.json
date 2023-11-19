@@ -136,73 +136,248 @@
     },
     {
         "location": "",
-        "type": "",
-        "name": ""
+        "type": "science",
+        "name": "electric resistance"
     },
     {
         "location": "",
-        "type": "",
-        "name": ""
+        "type": "science",
+        "name": "weight"
     },
     {
         "location": "",
-        "type": "",
-        "name": ""
+        "type": "science",
+        "name": "newtons second law"
     },
     {
         "location": "",
-        "type": "",
-        "name": ""
+        "type": "science",
+        "name": "density"
     },
     {
         "location": "",
-        "type": "",
-        "name": ""
+        "type": "science",
+        "name": "frequency"
     },
     {
         "location": "",
-        "type": "",
-        "name": ""
+        "type": "science",
+        "name": "pressure"
     },
     {
         "location": "",
-        "type": "",
-        "name": ""
+        "type": "science",
+        "name": "current density"
     },
     {
         "location": "",
-        "type": "",
-        "name": ""
+        "type": "science",
+        "name": "charge density"
     },
     {
         "location": "",
-        "type": "",
-        "name": ""
+        "type": "science",
+        "name": "kinematics"
     },
     {
         "location": "",
-        "type": "",
-        "name": ""
+        "type": "science",
+        "name": "work"
     },
     {
         "location": "",
-        "type": "",
-        "name": ""
+        "type": "science",
+        "name": "potential energy"
     },
     {
         "location": "",
-        "type": "",
-        "name": ""
+        "type": "science",
+        "name": "horsepower"
     },
     {
         "location": "",
-        "type": "",
-        "name": ""
+        "type": "science",
+        "name": "dot product"
     },
     {
         "location": "",
-        "type": "",
-        "name": ""
+        "type": "science",
+        "name": "electric potential"
+    },
+    {
+        "location": "",
+        "type": "science",
+        "name": "1st law thermodynamics"
+    },
+    {
+        "location": "",
+        "type": "health",
+        "name": "army body fat calculator" 
+    },
+    {
+        "location": "",
+        "type": "health",
+        "name": "bmi calculator" 
+    },
+    {
+        "location": "",
+        "type": "health",
+        "name": "calorie calculator" 
+    },
+    {
+        "location": "",
+        "type": "health",
+        "name": "protein calculator" 
+    },
+    {
+        "location": "",
+        "type": "health",
+        "name": "lean body mass calculator" 
+    },
+    {
+        "location": "",
+        "type": "health",
+        "name": "body fat calculator" 
+    },
+    {
+        "location": "",
+        "type": "health",
+        "name": "ideal weight calculator" 
+    },
+    {
+        "location": "",
+        "type": "health",
+        "name": "one rep max calculator" 
+    },
+    {
+        "location": "",
+        "type": "health",
+        "name": "measurement convertor" 
+    },
+    {
+        "location": "",
+        "type": "health",
+        "name": "step to miles" 
+    },
+    {
+        "location": "",
+        "type": "health",
+        "name": "steps to km" 
+    },
+    {
+        "location": "",
+        "type": "health",
+        "name": "sobriety calculator" 
+    },
+    {
+        "location": "",
+        "type": "health",
+        "name": "pregnancy calculator" 
+    },
+    {
+        "location": "",
+        "type": "finance",
+        "name": "interest calculator" 
+    },
+    {
+        "location": "",
+        "type": "finance",
+        "name": "401k calculator" 
+    },
+    {
+        "location": "",
+        "type": "finance",
+        "name": "compound interest calculator" 
+    },
+    {
+        "location": "",
+        "type": "finance",
+        "name": "auto loan calculator" 
+    },
+    {
+        "location": "",
+        "type": "finance",
+        "name": "rent calculator" 
+    },
+    {
+        "location": "",
+        "type": "finance",
+        "name": "income tax calculator" 
+    },
+    {
+        "location": "",
+        "type": "finance",
+        "name": "loan calculator" 
+    },
+    {
+        "location": "",
+        "type": "finance",
+        "name": "salary calculator" 
+    },
+    {
+        "location": "",
+        "type": "finance",
+        "name": "paycheck calculator" 
+    },
+    {
+        "location": "",
+        "type": "finance",
+        "name": "investment calculator" 
+    },
+    {
+        "location": "",
+        "type": "finance",
+        "name": "savings calculator" 
+    },
+    {
+        "location": "",
+        "type": "finance",
+        "name": "cd calculator" 
+    },
+    {
+        "location": "",
+        "type": "finance",
+        "name": "black-scholes calculator" 
+    },
+    {
+        "location": "",
+        "type": "finance",
+        "name": "inflation calculator" 
+    },
+    {
+        "location": "",
+        "type": "finance",
+        "name": "margin calculator" 
+    },
+    {
+        "location": "",
+        "type": "finance",
+        "name": "currency convertor" 
+    },
+    {
+        "location": "",
+        "type": "finance",
+        "name": "debt payoff calculator" 
+    },
+    {
+        "location": "",
+        "type": "finance",
+        "name": "commission calculator" 
+    },
+    {
+        "location": "",
+        "type": "finance",
+        "name": "mortgage calculator" 
+    },
+    {
+        "location": "",
+        "type": "finance",
+        "name": "house affordability" 
+    },
+    {
+        "location": "",
+        "type": "finance",
+        "name": "roi calculator" 
     }
 
 ]
