@@ -25,9 +25,12 @@ class searchFunctionality {
             const data = await this.fetchData();
             if (!data) return;
 
-            const filteredData = data.filter(item => 
-                item.name.toLowerCase().includes(query.toLowerCase())
-            );
+            const queryLower = query.toLowerCase();
+
+        const filteredData = data.filter(item => 
+            item.name.toLowerCase().includes(queryLower) || 
+            item.type.toLowerCase().includes(queryLower)
+        );
             const limitedData = filteredData.slice(0, 10);
             return limitedData;
         } catch (error) {
