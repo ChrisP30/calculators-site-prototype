@@ -41,7 +41,6 @@ class searchFunctionality {
     searchbarTyped() {
         this.searchbar.addEventListener('input', async () => { 
             if (this.searchbar.value !== '') {
-                console.log('value not 0')
                 this.search = this.searchbar.value;
                 this.dropDownDiv.innerHTML = ''
                 this.dropDownDiv.style.display = 'block';
@@ -61,7 +60,6 @@ class searchFunctionality {
                     console.error('Error processing data: ', error);
                 }
             } else {
-                console.log('value 0')
                 this.dropDownDiv.style.display = 'none';
             }
         });
