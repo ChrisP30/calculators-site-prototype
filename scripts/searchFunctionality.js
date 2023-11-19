@@ -7,7 +7,7 @@ class searchFunctionality {
 
     }
 
-    async fetchData(query) {
+    async fetchData() {
         try {
             const response = await fetch('data/data.json');
             if (!response.ok) {
