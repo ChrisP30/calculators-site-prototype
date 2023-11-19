@@ -8,7 +8,7 @@
 }
 
 .searchbar-container div {
-    width: 50%;
+    width: 60%;
 }
 
 .searchbar-container div li {
@@ -20,7 +20,7 @@
 }
 
 .searchbar-container div ul {
-    width: 50%;
+    width: 60%;
     height: 40vh;
     background-color: rgba(0, 0, 0, 0.8);
     margin: 0 auto;
@@ -48,23 +48,5 @@
 }
 .searchbar-container input::placeholder {
     color: white;
-}
-
-.searchbar-container button {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 10%;
-    height: 30px;
-    border: none;
-    margin-left: 5px;
-    color: white;
-    background-color: rgba(0, 0, 0, 0.8);
-    font-size: 16px;
-    transition: 0.2s ease-in-out;
-    transform: scale(1);
-}
-
-.searchbar-container button:active {
-    transform: scale(0.95);
+    padding-left: 10px;
 }
