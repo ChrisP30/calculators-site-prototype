@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../calculatorStyles/calculator.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Electrolize&display=swap" rel="stylesheet">
@@ -13,5 +14,36 @@
 <body>
     <top-navigation></top-navigation>
     <h2>Basic Calculator</h2>
+    <div class="main-container">
+        <div class="calculator-container">
+            <div class="calculator-display-container">
+                <h2 class="calculator-display-history" id="history"></h2>
+                <h2 class="current-number-display" id="current">0</h2>
+            </div>
+            <div class="first-row-keys">
+                <button id="clear-key" class="first-key">Clear</button>
+                <button id="delete-key" class="first-key">Delete</button>
+            </div>
+            <div class="keys-grid-container">
+                <button id="key-7" class="key">7</button>
+                <button id="key-8" class="key">8</button>
+                <button id="key-9" class="key">9</button>
+                <button id="divide-key" class="key">÷</button>
+                <button id="key-4" class="key">4</button>
+                <button id="key-5" class="key">5</button>
+                <button id="key-6" class="key">6</button>
+                <button id="times-key" class="key">x</button>
+                <button id="key-1" class="key">1</button>
+                <button id="key-2" class="key">2</button>
+                <button id="key-3" class="key">3</button>
+                <button class="key" id="minus-key">-</button>
+                <button id="decimal-key" class="key">.</button>
+                <button id="key-0" class="key">0</button>
+                <button id="equal-key" class="key">=</button>
+                <button id="plus-key" class="key">+</button>
+            </div>
+        </div>
+    </div>
+    <script src="../scripts/basicCalculator.js"></script>
 </body>
 </html>
