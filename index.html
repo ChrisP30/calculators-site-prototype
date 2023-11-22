@@ -12,17 +12,12 @@
     <link href="https://fonts.googleapis.com/css2?family=Electrolize&display=swap" rel="stylesheet">
     <script src="components/HomeNav.js" type="text/javascript" defer></script>
     <script src="scripts/home.js" defer></script>
+    <script src="components/homeSearchBar.js" type="text/javascript" defer></script>
+    <script src="scripts/searchFunctionality.js" defer></script>
 </head>
 <body>
     <home-navigation></home-navigation>
-    <div class="searchbar-container">
-        <div>
-            <input type="text" placeholder="Search..." id="searchbar">
-            <ul id="dropdown">
-                
-            </ul>
-        </div>
-    </div>
+    <home-search-bar></home-search-bar>
     <div class="hero-section">
         <div class="hero-section-content-container">
             <h2>Welcome To The Calculator Pro</h2>
@@ -146,6 +141,6 @@
             <div class="section-item"><a href="mathpages/binaryCal.html"><h4>Binary Calculator</h4></a></div>
         </div>
     </div>
-    <script src="scripts/searchFunctionality.js"></script>
+    
 </body>
 </html>

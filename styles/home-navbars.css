@@ -21,7 +21,7 @@
 .navbar-regular-logo {
     position: relative;
     width: 100%;
-    background-color: #CC313D;
+    background: linear-gradient(107.2deg, rgb(150, 15, 15) 10.6%, rgb(247, 0, 0) 91.1%);
     height: 45px;
     display: flex;
     align-items: center;
@@ -43,7 +43,7 @@
     position: relative;
     display: flex;
     height: 43px;
-    background-color: lightgray;
+    background: linear-gradient(109.6deg, rgba(0, 0, 0, 0.93) 11.2%, rgb(63, 61, 61) 78.9%);
     z-index: 999;
 }
 
@@ -54,22 +54,24 @@
 
 .regular-health-menu {
     width: 25%;
-    border: 1px solid black;
+    border-right: 1px solid white;
 }
 
 .regular-finance-menu {
     width: 25%;
-    border: 1px solid black;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
 }
 
 .regular-science-menu {
     width: 25%;
-    border: 1px solid black;
+    border-left: 1px solid white;
 }
 
 .regular-math-menu {
     width: 25%;
-    border: 1px solid black;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
 }
 
 .regular-health-menu h2 {
@@ -117,7 +119,7 @@
     left: 0;
     right: 0;
     width: 60%;
-    background-color: #CC313D;
+    background: linear-gradient(107.2deg, rgb(150, 15, 15) 10.6%, rgb(247, 0, 0) 91.1%);
     margin: 0 auto;
     transform: translateY(0);
     z-index: 50;
@@ -168,7 +170,7 @@
     right: 0;
     margin: 0 auto;
     width: 60%;
-    background-color: #CC313D;
+    background: linear-gradient(107.2deg, rgb(150, 15, 15) 10.6%, rgb(247, 0, 0) 91.1%);
     transform: translateY(0);
     z-index: 50;
     transition: 0.3s ease-in-out;
@@ -182,7 +184,7 @@
     right: 0;
     margin: 0 auto;
     width: 60%;
-    background-color: #CC313D;
+    background: linear-gradient(107.2deg, rgb(150, 15, 15) 10.6%, rgb(247, 0, 0) 91.1%);
     transform: translateY(0);
     z-index: 50;
     transition: 0.3s ease-in-out;
@@ -195,7 +197,7 @@
     left: 0;
     right: 0;
     width: 60%;
-    background-color: #CC313D;
+    background: linear-gradient(107.2deg, rgb(150, 15, 15) 10.6%, rgb(247, 0, 0) 91.1%);
     margin: 0 auto;
     transform: translateY(0);
     z-index: 50;
